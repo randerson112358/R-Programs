@@ -7,7 +7,7 @@
 
 To see me programming in R checkout the YouTube channel: <a target="_blank" href="https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA">Click Here</a>
 
-## Encryption Programs
+## Gathering Data from Different Sources Programs
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
 readJSON.R |  Read Data from JSON |  [Program](https://github.com/randerson112358/R-Programs/blob/master/readJSON.R) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube](https://www.youtube.com/watch?v=hzbdajLhiew)
