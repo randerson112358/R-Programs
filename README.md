@@ -11,3 +11,9 @@ To see me programming in R checkout the YouTube channel: <a target="_blank" href
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
 readJSON.R |  Read Data from JSON |  [Program](https://github.com/randerson112358/R-Programs/blob/master/readJSON.R) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube](https://www.youtube.com/watch?v=hzbdajLhiew)
+MultLinReg.R |  Multiple Linear Regression |  [Program](https://github.com/randerson112358/R-Programs/blob/master/MultLinReg.R) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube](https://youtu.be/hstJQeXlA6k)
+
+
+
+
+
