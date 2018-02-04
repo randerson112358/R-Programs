@@ -2,7 +2,7 @@
 install.packages("twitteR")
 library("twitteR")
 
-#REPLACE '####' with the appriate values from your twitter app
+#REPLACE '####' with the appropriate values from your twitter app
 consumerKey='####'
 consumerSecret='####'
 accessToken='####'
