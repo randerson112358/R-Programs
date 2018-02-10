@@ -3,6 +3,10 @@
 # 1) Positive and Negative words text file (positive-words.txt, and negative-words.txt)
 # 2) You will need to connect to twitter by filling in the '###' with the correct credentials
 
+#RESOURCES
+#http://thinktostart.com/sentiment-analysis-on-twitter/
+#https://medium.com/@rohitnair_94843/analysis-of-twitter-data-using-r-part-3-sentiment-analysis-53d0e5359cb8
+
 #Install the appropriate packages
 install.packages("twitteR")
 library("twitteR")
@@ -30,6 +34,12 @@ score.sentiment = function(sentences, pos.words, neg.words, .progress='none')
 {
   require(plyr)
   require(stringr)
+  
+  
+   # we got a vector of sentences. plyr will handle a list
+ # or a vector as an “l” for us
+ # we want a simple array (“a”) of scores back, so we use 
+ # “l” + “a” + “ply” = “laply”:
   
   # we got a vector of sentences. plyr will handle a list or a vector as an "l" for us
   # we want a simple array of scores back, so we use "l" + "a" + "ply" = laply:
