@@ -13,3 +13,6 @@ setup_twitter_oauth(consumerKey,consumerSecret,accessToken,accessTokenSecret)
 
 #Extract Tweets !
 searchTwitter("nba", n=3, lang="en")
+
+#Post Tweet !
+tweet("A tweet!")
