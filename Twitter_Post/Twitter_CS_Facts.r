@@ -18,6 +18,15 @@ setup_twitter_oauth(consumerKey,consumerSecret,accessToken,accessTokenSecret)
 #Open File and read lists 55 facts about computer science
 FactsFile = read.table("test.txt", sep='\n')
 
+#Check that each sentence in the test.txt file is 140 character or less to post to twitter
+#for(i in 1:nrow(FactsFile)){
+#if( as.numeric(nchar(as.vector(FactsFile[i,1]))) > 140){
+#print(i)
+#print(as.vector(FactsFile[i,1]))
+#count = count + 1
+#}
+#}
+
 #Get the Current Week for this year
 week= strftime(Sys.Date(), format="%V")
 #Convert the string to a number
