@@ -20,7 +20,8 @@ setup_twitter_oauth(consumerKey,consumerSecret,accessToken,accessTokenSecret)
 #searchTwitter("nba", n=3, lang="en")
 
 
-#Open File and read lists 55 facts about computer science
+#Open File and read lists 55 facts about computer science (NOTE: Store the insperation.txt file in the following location:
+#C:/Tweets/insperationTWT/
 FactsFile = read.table("C:/Tweets/insperationTWT/insperation.txt", sep='\n')
 
 
