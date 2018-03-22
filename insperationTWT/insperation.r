@@ -5,10 +5,10 @@ library("ISOweek")
 
 
 #Assign the appropriate keys
-consumerKey='St43EdCUSdUHiOVdAWk9fbO4e'
-consumerSecret='ePSduAcJfr9f3e9jalkHvE468ZRZT6GfCvRSJz0aYMZCeh8HuM'
-accessToken='2257973394-t8TwIXFfQhb6bRJKgGbNvWSrUNH56dN6ybV9CUM'
-accessTokenSecret= 'ZHbQG780v88dZ1gzyoyErHZs8doUYvqiAGVsFOkxFufvr'
+consumerKey='XXXXXX'
+consumerSecret='XXXXXX'
+accessToken='XXXXXX'
+accessTokenSecret= 'XXXXXX'
 
 
 #Connect to twitter
