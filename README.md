@@ -12,8 +12,8 @@ Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
 readJSON.R |  Read Data from JSON |  [Program](https://github.com/randerson112358/R-Programs/blob/master/readJSON.R) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube](https://www.youtube.com/watch?v=hzbdajLhiew)
 MultLinReg.R |  Multiple Linear Regression |  [Program](https://github.com/randerson112358/R-Programs/blob/master/MultLinReg.R) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube](https://youtu.be/hstJQeXlA6k)
-twitterMining.R |  Mine Twitter Tweets |  [Program](https://github.com/randerson112358/R-Programs/blob/master/twitterMining.R) | [Blog](https://medium.com/@randerson112358/twitter-mining-with-r-6fef0dd97781) | [Watch on YouTube in progress](https://youtu.be/hstJQeXlA6k_)
-
+twitterMining.R |  Mine Twitter Tweets |  [Program](https://github.com/randerson112358/R-Programs/blob/master/twitterMining.R) | [Blog](https://medium.com/@randerson112358/twitter-mining-with-r-6fef0dd97781) | [Watch on YouTube](https://www.youtube.com/watch?v=L6hUGRfqxog)
+Sentiment_Analysis.R |  Sentiment Analysis |  [Program](https://github.com/randerson112358/R-Programs/blob/master/Sentiment%20Analysis/Sentiment_Analysis.r) | [Blog](https://medium.com/@randerson112358/simple-short-and-easy-sentiment-analysis-34834082e6fa) | [Watch on YouTube](https://youtu.be/h7Xv7iBAgEs)
 
 
 
