@@ -14,7 +14,7 @@ readJSON.R |  Read Data from JSON |  [Program](https://github.com/randerson11235
 MultLinReg.R |  Multiple Linear Regression |  [Program](https://github.com/randerson112358/R-Programs/blob/master/MultLinReg.R) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube](https://youtu.be/hstJQeXlA6k)
 twitterMining.R |  Mine Twitter Tweets |  [Program](https://github.com/randerson112358/R-Programs/blob/master/twitterMining.R) | [Blog](https://medium.com/@randerson112358/twitter-mining-with-r-6fef0dd97781) | [Watch on YouTube](https://www.youtube.com/watch?v=L6hUGRfqxog)
 Sentiment_Analysis.R | Simple Sentiment Analysis |  [Program](https://github.com/randerson112358/R-Programs/blob/master/Sentiment%20Analysis/Sentiment_Analysis.r) | [Blog](https://medium.com/@randerson112358/simple-short-and-easy-sentiment-analysis-34834082e6fa) | [Watch on YouTube](https://youtu.be/h7Xv7iBAgEs)
-NBA_SQL.R |  Use SQL qith R |  [Program](https://github.com/randerson112358/R-Programs/blob/master/NBA_SQL.R) | [Blog](https://medium.com/@randerson112358/sql-select-statements-using-nba-data-c8dd489479f3) | [Watch on YouTube](https://youtu.be/RX9LDYVw-0U)
+NBA_SQL.R |  Use SQL with R to manipulate NBA data |  [Program](https://github.com/randerson112358/R-Programs/blob/master/NBA_SQL.R) | [Blog](https://medium.com/@randerson112358/sql-select-statements-using-nba-data-c8dd489479f3) | [Watch on YouTube](https://youtu.be/RX9LDYVw-0U)
 
 
 
