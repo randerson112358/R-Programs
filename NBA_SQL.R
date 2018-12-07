@@ -7,8 +7,8 @@ library(sqldf)
 #load the xlsx package
 library(xlsx)
 
-#read in Cavs Data
-cavs <- read.xlsx("C:/Users/rodne/Desktop/Cavs1.xlsx", sheetName="Sheet1")
+#read in Cavs Data, be sure this file is in the same location as this R program
+cavs <- read.xlsx("Cavs1.xlsx", sheetName="Sheet1")
 
 #Select all columns from the CAVS table
 sqldf("SELECT * from cavs")
