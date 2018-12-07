@@ -17,7 +17,9 @@ print("Choose a number to remember from the below matrix.")
 
 ## Get the user input
 n <- readline(prompt="Enter an integer: ")
-n <- as.integer(n) ## Convert it to an integer
+n <- as.integer(n) ## Convert the user input 'n' to an integer
+  
+  ## if n is not numeric then print n is not a number
   if (!is.numeric(n)){
     print("n is not a number")
 
@@ -25,7 +27,7 @@ n <- as.integer(n) ## Convert it to an integer
   }
 
   if(n > 3){
-    print("n is should not be greater than 3")
+    print("n should not be a number greater than 3")
 
     ## need to exit
   }
