@@ -5,7 +5,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2000px-R_logo.svg.png" width="350"/>
 </p>
 
-To see me programming in R checkout the YouTube channel: <a target="_blank" href="https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA">Click Here</a>
+To see me programming in R checkout the YouTube channel: <a target="_blank" href="https://www.youtube.com/playlist?list=PLBhJnyA0V0uIyCPJyRT8weif3qNQtDr1w">Click Here</a>
 
 ## Programs
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
