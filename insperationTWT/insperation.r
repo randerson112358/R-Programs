@@ -29,7 +29,7 @@ setup_twitter_oauth(consumerKey,consumerSecret,accessToken,accessTokenSecret)
 #searchTwitter("nba", n=3, lang="en")
 
 
-#Open File and read lists 55 facts about computer science (NOTE: Store the insperation.txt file in the following location:
+#Open File and read list (NOTE: Store the insperation.txt file in the following location:
 #C:/Tweets/insperationTWT/
 FactsFile = read.table("C:/Tweets/insperationTWT/insperation.txt", sep='\n')
 
@@ -39,4 +39,5 @@ week= strftime(Sys.Date(), format="%V")
 weekNumber = as.numeric(week)
 
 #Post Tweets
+#This posts the row 'weekNumber' in the insperation text from the only column that exists, column '1'
 tweet(as.vector(FactsFile[weekNumber,1]))
