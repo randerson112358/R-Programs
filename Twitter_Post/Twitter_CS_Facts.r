@@ -7,7 +7,7 @@ library("ISOweek")
 #Assign the appropriate keys
 consumerKey='XXXXXXX'
 consumerSecret='XXXXXXX'
-accessToken='2257973394-XXXXXXX'
+accessToken='XXXXXXX'
 accessTokenSecret= 'XXXXXXX'
 
 
